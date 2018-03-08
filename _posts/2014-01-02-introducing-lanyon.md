@@ -3,36 +3,8 @@ layout: post
 title: Introducing Lanyon
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+### Mustang
 
-### Built on Poole
+The Ford Mustang is an American car manufactured by Ford. It was originally based on the platform of the second generation North American Ford Falcon, a compact car.[1] The original 1962 Ford Mustang I two-seater concept car had evolved into the 1963 Mustang II four-seater concept car which Ford used to pretest how the public would take interest in the first production Mustang. The 1963 Mustang II concept car was designed with a variation of the production model's front and rear ends with a roof that was 2.7 inches shorter.[2] Introduced early on April 17, 1964[3] (16 days after the Plymouth Barracuda), and thus dubbed as a "1964½" by Mustang fans, the 1965 Mustang was the automaker's most successful launch since the Model A.[4] The Mustang has undergone several transformations to its current sixth generation.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Lanyon features
-
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+The Mustang created the "pony car" class of American muscle cars, affordable sporty coupes with long hoods and short rear decks[5], and gave rise to competitors such as the Chevrolet Camaro,[6] Pontiac Firebird, AMC Javelin,[7] Chrysler's revamped Plymouth Barracuda, and the second generation Dodge Challenger.[8] The Mustang is also credited for inspiring the designs of coupés such as the Toyota Celica and Ford Capri, which were imported to the United States
