@@ -9,7 +9,7 @@ title:               Jesse Kirimi
 tagline:             ''
 description:         'A software developer from Nairobi Kenya'
 url:                 http://kirimijesse.github.io
-baseurl:             '/blog/'
+baseurl:             ''
 paginate:            5
 
 # About/contact
