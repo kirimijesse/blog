@@ -3,6 +3,15 @@ layout: page
 title: About
 ---
 
+
+
+| Jameson       | Jesse         | Code  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 Boring Shit Lyrics
 
 [Intro]
@@ -50,31 +59,3 @@ Take a look, it's in a book
 Take a look, it's in a book
 Take a look, it's in a book
 Take a look, it's in a book
-
-[Verse 2]
-I could build your confidence as you build mine
-You like me, I will love you always until the end of time
-It seems like that I'm always on that thin line
-Like 808s & Heartbreak, Kanye with a little hentai
-Samurai Jack on a journey, on my lonely, always rockin' Vêtements
-They asked me can I rap, man can I?
-But I chose to be a sharp shooter like Chris Benoit
-Drivin' in that Lamb, I remember when my mom took me to PennDOT
-Fucked a girl from Sweden, then I sent her ass to Denmark
-Fucked a girl from L.A., and I left her ass right there
-Of course you rock with me 'cause I just came out this year
-But I'ma see if you really fuck with me if you listening next year
-Countin' all my bands up
-Go 'head, throw your hands up
-Throw your... yeah
-Go 'head throw your hands up
-Mad because their...
-Mad because their only chance up
-Yeah your only chance up
-And I really did it
-You know I really did it
-Yeah I really did it
-
-[Outro]
-It's in a book
-The B-I-B-L-E-
